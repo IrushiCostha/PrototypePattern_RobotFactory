@@ -33,4 +33,5 @@ In a robotic factory system, creating complex robot instances from scratch for e
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/IrushiCostha/PrototypePattern_RobotFactory.git](https://github.com/IrushiCostha/PrototypePattern_RobotFactory.git)
+   git clone
+   https://github.com/IrushiCostha/PrototypePattern_RobotFactory.git
